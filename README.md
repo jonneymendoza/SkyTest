@@ -11,4 +11,4 @@ I Can demonstrate or explain the TDD approach in one of the vacant Use-case clas
 
 I have also provided a simple UI to demo the output using android jetpack compose, a new way of implementing the UI in android.
 
-Please use Android studio 4.2 carnal 15 of you wish to run the project in your machine
+Please use Android studio 4.2 Canary 15 of you wish to run the project in your machine
