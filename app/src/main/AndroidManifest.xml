@@ -11,8 +11,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SKy">
         <activity
-            android:name=".MainActivityA"
-            android:screenOrientation="portrait">>
+            android:name=".ui.MainActivityA"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />

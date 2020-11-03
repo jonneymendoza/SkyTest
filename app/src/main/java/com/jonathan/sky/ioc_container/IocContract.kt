@@ -1,7 +1,5 @@
 package com.jonathan.sky.ioc_container
 
-import org.koin.core.module.Module
-
 /**
  * Interface used to create the dependency mappings based on Clear code Architecture
  */
